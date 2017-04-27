@@ -6,7 +6,3 @@ AtoM 이용자 매뉴얼 (한글)
 원문 URL : https://www.accesstomemory.org/en/docs/2.3/admin-manual/installation/linux/ubuntu-trusty/
 
 수정 요청은 daejin@archivelab.co.kr 로 보내주세요.
-
-```
-aaa
-```
